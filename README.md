@@ -1,29 +1,26 @@
-# e-Portfolio as an MSc Candidate in Computer Science at the University of Essex
+# E-Portfolio as an MSc Student in Cyber Security at the University of Essex
 
-This e-portfolio contains the outcomes from my learning journey throughout my MSc in Computer Science at the University of Essex (UK).
+This e-portfolio contains the outcomes from my learning journey throughout my MSc in CyberSecurity at the University of Essex (UK).
  
 Please view [my e-portfolio](https://marianne-manaog.github.io/e_portfolio/).
 
 
-## Module 1: Launching into Computer Science
+## Module 1: Launching into Launching into Cyber Security
 ### Units of Module 1
-* Unit 1: Computing as a Profession – Responsibilities and Challenges
-* Unit 2: Introduction to Computer Architecture and the Functionality
-* Unit 3: Emerging Trends in Computer Science
-* Unit 4: Computing Infrastructure and Network
-* Unit 5: Software as a Tool - Its Functionality and Development Methodologies
-* Unit 6: System Software – Operating Systems
-* Unit 7: Data Abstraction
-* Unit 8: An Introduction to Algorithms and Basic Programming Concepts
-* Unit 9: Solving Problems Using Python
-	- [Example of project on a contact book application developed in Python](https://github.com/marianne-manaog/ContactBookPythonApplication).
-* Unit 10: Data Representation using Database Concepts
-* Unit 11: Advanced SQL
-	- [SQL queries](https://github.com/marianne-manaog/sql-assignment-essex) created to answer specific questions set in an assignment.
-* Unit 12: Research Topics in Computer Science – Data Science, AI and Standards 
+* Unit 1: Introduction to Cyber Security
+* Unit 2: Cyber Security Issues and their Implications for Businesses
+* Unit 3: Approaches to Cyber Security Design
+* Unit 4: Threat Identification and Modelling
+* Unit 5: An Introduction to Algorithms and Basic Programming Concepts
+* Unit 6: Application of UML to Secure Software Design
+* Unit 7: Database Design and Implementation
+* Unit 8: Python Programming and MySQL
+* Unit 9: OOP Application	
+* Unit 10: Advanced OO Techniques for Secure Systems I
+* Unit 11: Advanced OO Techniques for Secure Systems II
+* Unit 12: A Look into the Future of Cyber Security
 
-
-## Module 2: Object-oriented Information Systems
+## Module 2: Network Security
 ### Units of Module 2
 * Unit 1: Introduction to Information Systems
 	- [Own post](https://github.com/marianne-manaog/oois-python-sql-uml/blob/main/src/unit_1_exercises/Information_system_failure_collaborative_discussion_unit_1.docx) as a part of a collaborative discussion on information system failures, with focus on an AI-based system for guiding investment decisions
